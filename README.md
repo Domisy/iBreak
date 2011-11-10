@@ -1,6 +1,5 @@
 #iBreak Version 1.0a1
 ######Created by the Domisy Dev Team
-
 The goal of iBreak is to combine all popular jailbreak tools into one easy to use package.
 
 Depending on the device you use, you will need either the packaged versions of Redsn0w, sn0wbreeze of iBooty.
@@ -12,8 +11,7 @@ Just follow the prompts about your device and iOS version, and the proper tool w
 
 For general help visit domisy.com
 
-Contact us:
-
+##Contact us
 @flaminsagnaki
 
 @alanxenos
