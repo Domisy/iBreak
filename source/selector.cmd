@@ -1,11 +1,7 @@
 echo off
 color 01F
 cls
-echo ------------------------
-echo |iBreak tool v1.0       |
-echo |by the Domisy Dev Team |
-echo |ALPHA 7 10/14/2011     |
-echo -------------------------
+echo iBreak by Domisy Dev Team 
 echo For those times you can't decide!
 pause
 cls
@@ -28,7 +24,7 @@ if errorcode = 2 goto guid
 
 :guid
 echo Your installation ID is
-echo ABCFE691-282A-4182-8EFA-415E3F878E73
+echo QVC45-
 echo Version: Alpha 5 Internal Release
 
 :readme
@@ -48,7 +44,7 @@ if errorcode = 0 goto 4335
 if errorcode = 1 goto 50
 
 :4335
-echo Sorry, but only redsn0w is compatible.
+echo Only redsn0w is compatible.
 echo Ensure you are running the same software
 echo version as you IPSW. Then press ENTER
 pause
